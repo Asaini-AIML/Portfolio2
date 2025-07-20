@@ -5,18 +5,9 @@ const AboutMeText = () => {
     <div className="flex flex-col md:item-start sm:item-center md:text-left sm:text-center">
       <h2 className="text-6xl text-cyan mb-10">About Me</h2>
       <p className="text-white">
-        Lorem ipsum dolor, sit amet consectetur adipisicing elit. Vel odio
-        adipisci atque dolorum excepturi maxime quia in id eius veritatis nobis
-        voluptate, ipsa molestiae reprehenderit provident laudantium sapiente
-        tenetur inventore obcaecati mollitia repudiandae cupiditate explicabo.
-        Error dolorem minus corporis. Facilis dolor exercitationem aperiam quo
-        vitae est recusandae architecto doloribus iste soluta, beatae impedit,
-        ipsam laudantium voluptates ducimus quam saepe sed aspernatur minima
-        aliquid quas unde! Ad tempore hic exercitationem molestias voluptate
-        quas maiores sapiente cumque architecto doloribus excepturi in
-        quibusdam, deleniti consequatur dolore unde? Dolores sit excepturi
-        dolor, harum, qui perspiciatis ipsum quibusdam obcaecati quae minus non
-        velit officia aliquam!
+        I'm a Full Stack Developer with a strong focus on frontend development using React and JavaScript. I have a solid foundation in C++, Data Structures, and Algorithms, which enables me to write clean, optimized, and efficient code.
+
+I enjoy building responsive, user-friendly web applications and take pride in delivering intuitive UI and smooth functionality. I'm passionate about continuous learning and always eager to take on new challenges that help me grow as a developer.
       </p>
       <button className="border border-orange rounded-full py-2 px-4 text-lg flex items-center mt-10 hover:bg-orange transition-all duration-500 cursor-pointer md:self-start sm:self-center text-white hover:text-cyan">My Project</button>
     </div>
