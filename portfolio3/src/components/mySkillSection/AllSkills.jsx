@@ -5,11 +5,21 @@ import { IoLogoNodejs } from "react-icons/io";
 import { IoLogoReact } from "react-icons/io5";
 import { TbBrandJavascript } from "react-icons/tb";
 import { RiTailwindCssFill } from "react-icons/ri";
+import { DiMongodb } from "react-icons/di";
+import { SiMysql } from "react-icons/si";
+import { FaGithub } from "react-icons/fa";
+import { SiCplusplus } from 'react-icons/si';  
 import SingleSkill from './SingleSkill';
 import { motion } from 'framer-motion';
 import { fadeIn } from '../../framerMotion/Variant'; 
 
 const skills=[
+  {
+    name: "C++",
+    
+    icon: SiCplusplus
+  },
+
   {
     name: "HTML",
     
@@ -21,24 +31,39 @@ const skills=[
     icon:FaCss3Alt
   },
   {
-    name: "JavaScript",
+    name: "JAVASCRIPT",
     
     icon: TbBrandJavascript
   },
   {
-    name: "React",
+    name: "REACT",
     
     icon: IoLogoReact
   },
   {
-    name: "Node.js",
+    name: "NODE.JS",
   
     icon: IoLogoNodejs
   },
   {
-    name:"TailWind",
+    name:"TAILWIND",
     icon:RiTailwindCssFill
-  }
+  },
+   {
+    name: "MONGODB",
+    
+    icon: DiMongodb
+  },
+   {
+    name: "SQL",
+    
+    icon: SiMysql
+  },
+   {
+    name: "GITHUB",
+    
+    icon: FaGithub
+  },
 ]
 const AllSkills = () => {
   return (
