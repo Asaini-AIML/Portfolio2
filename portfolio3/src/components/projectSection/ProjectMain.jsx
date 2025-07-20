@@ -5,33 +5,33 @@ import { motion } from 'framer-motion'
 import { fadeIn } from '../../framerMotion/Variant'
 const projects = [
     {
-        name: 'Project 1',
-        year: 'Mar 2022',
+        name: 'AI Mock Interview App',
+        year: 'Sep 2024',
         align: "right",
-        image: '/images/website-img-1.jpg', // remove 'public/' part
-        link: "#",
+        image: 'images/MockMate.png', 
+        link: "https://github.com/Asaini-AIML/MockMate",
     },
     {
-        name: 'Project 2',
-        year: 'Apr 2022',
+        name: 'Job Portal',
+        year: 'Dec 2023',
         align: "left",
-        image: '/images/website-img-2.webp',
-        link: "#",
+        image: 'images/JobPortal.png',
+        link: "https://github.com/Asaini-AIML/JOB-PORTAL",
     },
      {
-        name: 'Project 3',
-        year: 'Apr 2025',
+        name: 'Password Generator',
+        year: 'June 2024',
         align: "right",
-        image: '/images/website-img-3.jpg',
-        link: "#",
+        image: 'images/PasswordGenerator.png',
+        link: "https://github.com/Asaini-AIML/Password-Generator",
     },
-     {
-        name: 'Project 4',
-        year: 'Apr 2024',
-        align: "left",
-        image: 'public/images/about-me.jpg',
-        link: "#",
-    }
+    //  {
+    //     name: 'Project 4',
+    //     year: 'Apr 2024',
+    //     align: "left",
+    //     image: 'public/images/about-me.jpg',
+    //     link: "#",
+    // }
 
     
 ]
