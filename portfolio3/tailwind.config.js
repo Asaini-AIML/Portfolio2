@@ -25,20 +25,41 @@ export default {
       lightGrey: "#8a938e",
       darkGrey: "#3f4441",
        */
-      brown: "#53423e",
-      lightBrown: "#645550",
-      darkBrown: "#2c2523",
-      black: "#1e1917",
-      white: "#f1e1d9",
-      cyan: "#15d1e9",
-      lightCyan: "#88e5f0",
-      darkCyan: "#009fb3",
-      orange: "#fb9718",
-      lightOrange: "#fac27b",
-      darkOrange: "#d28422",
-      grey: "#626965",
-      lightGrey: "#978580",
-      darkGrey: "#3f4441",
+      // brown: "#53423e",
+      // lightBrown: "#645550",
+      // darkBrown: "#2c2523",
+      // black: "#1e1917",
+      // white: "#f1e1d9",
+      // cyan: "#15d1e9",
+      // lightCyan: "#88e5f0",
+      // darkCyan: "#009fb3",
+      // orange: "#fb9718",
+      // lightOrange: "#fac27b",
+      // darkOrange: "#d28422",
+      // grey: "#626965",
+      // lightGrey: "#978580",
+      // darkGrey: "#3f4441",
+brown: "#9B5DE5",         // Vibrant purple (Lavender)
+lightBrown: "#CBA3FF",    // Light lilac
+darkBrown: "#6A0DAD",     // Deep violet
+
+black: "#1A1B2F",         // Soft navy black  
+white: "#FAF0FF",         // Pale lavender-white  
+
+cyan: "#4EA8DE",          // Soft blueberry blue  
+lightCyan: "#B3DFFC",     // Icy blue  
+darkCyan: "#3A6EA5",      // Indigo-blue  
+
+orange: "#F15BB5",        // Berry pink  
+lightOrange: "#FFB3DA",   // Blush pink  
+darkOrange: "#C94E97",    // Deep rose pink  
+
+grey: "#5C5470",          // Dusty plum-grey  
+lightGrey: "#D4CFE0",     // Light mauve-grey  
+darkGrey: "#3A3145",      // Charcoal plum  
+      // Wet stone/lichen-covered rock  
+
+
     },
     extend: {
       boxShadow: {
